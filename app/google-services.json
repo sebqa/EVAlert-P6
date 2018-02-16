@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973958093077",
+    "firebase_url": "https://evalert-c5a2f.firebaseio.com",
+    "project_id": "evalert-c5a2f",
+    "storage_bucket": "evalert-c5a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973958093077:android:7eafea369463e5aa",
+        "android_client_info": {
+          "package_name": "aau.sebastian.evalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973958093077-pospjn1qps684uvchj298pjh00mv2am8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aau.sebastian.evalert",
+            "certificate_hash": "66e2611a99cb85580dd529ab52837c27ec66047f"
+          }
+        },
+        {
+          "client_id": "973958093077-8s944jffj7uvrng1s9i3vj7qes5h7sjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE57A4MsuiK0WIZQz_aUYXU_7DNqPsyN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973958093077-8s944jffj7uvrng1s9i3vj7qes5h7sjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
